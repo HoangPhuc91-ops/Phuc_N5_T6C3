@@ -1,7 +1,14 @@
 # 👋 Hello, I'm Hoàng Phúc!
 # MSSV : 22DH112801
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies.
+##### Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies.
+##### I have experience working with various technologies and frameworks, including [mention some relevant technologies, e.g., JavaScript, Python, React, etc.]. I love collaborating with teams to create user-friendly applications that enhance the overall user experience. My goal is to continuously learn and grow in the ever-evolving field of technology.
+
+##### In addition to coding, I enjoy contributing to open-source projects, where I can collaborate with other developers and share knowledge. I believe that sharing our experiences and insights leads to better solutions and fosters a strong tech community.
+
+##### When I’m not coding, you can find me [your hobbies, e.g., hiking, reading, experimenting with new recipes, etc.]. I'm always eager to connect with like-minded individuals, so feel free to reach out!
+
+####Thank you for visiting my profile!
 
 ## 🚀 About Me
 - 🌱 **Currently Learning:** Advanced Software Technology
@@ -31,11 +38,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌐 Find Me Around the Web
-- [LinkedIn](your-linkedin-url) 🌍
-- [Twitter](your-twitter-url) 🐦
-- [Personal Website](your-portfolio-url) 🌐
-- [Dev.to](your-devto-url) ✍️
-- [Medium](your-medium-url) 📖
+Connect with me on social media:
+
+- [LinkedIn](your-linkedin-url) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) 
+- [Twitter](your-twitter-url) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white) 
+- [GitHub](your-github-url) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+- [Dev.to](your-devto-url) ![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white) 
+- [Medium](your-medium-url) ![Medium](https://img.shields.io/badge/Medium-00AB6C?style=flat-square&logo=medium&logoColor=white) 
+- [Personal Website](your-portfolio-url) ![Website](https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=googlechrome&logoColor=white)
 
 
 ## 📫 Let's Connect!
@@ -45,4 +55,4 @@ I’m always open to collaboration and new ideas. Feel free to reach out if you 
 
 Thank you for visiting my profile!
 
-![Memes Template](https://github.com/user-attachments/assets/eb477d94-c9fc-4f03-8da2-47b93065cfea)
+![Memes Template]([https://github.com/user-attachments/assets/eb477d94-c9fc-4f03-8da2-47b93065cfea](https://www.google.com/search?q=GIF+Funny+IT&sca_esv=339a018dea4bc811&udm=2&biw=1920&bih=963&ei=KQwSZ4n7HurO2roPhbiLqA4&ved=0ahUKEwjJs9GQspeJAxVqp1YBHQXcAuUQ4dUDCBA&uact=5&oq=GIF+Funny+IT&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEdJRiBGdW5ueSBJVDIEEAAYHjIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5IngxQlgFY1QVwAXgAkAEAmAFKoAHcAaoBATO4AQPIAQD4AQGYAgSgAuoBwgIKEAAYgAQYQxiKBcICBhAAGAcYHsICBRAAGIAEwgIHEAAYgAQYE8ICBhAAGBMYHsICChAAGBMYCBgKGB7CAggQABgTGAgYHpgDAIgGAZIHATSgB-AQ&sclient=gws-wiz-serp#vhid=nN86qwp9tDIZOM&vssid=mosaic))
