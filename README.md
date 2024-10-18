@@ -52,7 +52,7 @@ Connect with me on social media:
 I’m always open to collaboration and new ideas. Feel free to reach out if you want to chat or work together!
 
 ---
+![Memes Template](https://github.com/user-attachments/assets/6e5fdee2-b324-4847-930e-bbe00172dc55)
 
 Thank you for visiting my profile!
 
-![Memes Template]([https://github.com/user-attachments/assets/eb477d94-c9fc-4f03-8da2-47b93065cfea](https://www.google.com/search?q=GIF+Funny+IT&sca_esv=339a018dea4bc811&udm=2&biw=1920&bih=963&ei=KQwSZ4n7HurO2roPhbiLqA4&ved=0ahUKEwjJs9GQspeJAxVqp1YBHQXcAuUQ4dUDCBA&uact=5&oq=GIF+Funny+IT&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEdJRiBGdW5ueSBJVDIEEAAYHjIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5IngxQlgFY1QVwAXgAkAEAmAFKoAHcAaoBATO4AQPIAQD4AQGYAgSgAuoBwgIKEAAYgAQYQxiKBcICBhAAGAcYHsICBRAAGIAEwgIHEAAYgAQYE8ICBhAAGBMYHsICChAAGBMYCBgKGB7CAggQABgTGAgYHpgDAIgGAZIHATSgB-AQ&sclient=gws-wiz-serp#vhid=nN86qwp9tDIZOM&vssid=mosaic))
