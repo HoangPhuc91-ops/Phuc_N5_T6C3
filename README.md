@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🚀 About Me
 - 🌱 **Currently Learning:** Advanced Software Technology
-- 💼 **Experience:**3 years in web development
+- 💼 **Experience:** 3 years in web development
 - 💻 **Languages & Frameworks:**
   - **JavaScript**
   - **Python**
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   - **Node.js**
   - **Django**
   - **Ruby on Rails**
-- 🎨 **Hobbies:**photography, hiking, reading
+- 🎨 **Hobbies:** photography, hiking, reading
 
 ## 🔧 Technologies & Tools
 <div>
@@ -31,11 +31,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌐 Find Me Around the Web
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website](your-portfolio-url)
-- [Dev.to](your-devto-url)
-- [Medium](your-medium-url)
+- [LinkedIn](your-linkedin-url) 🌍
+- [Twitter](your-twitter-url) 🐦
+- [Personal Website](your-portfolio-url) 🌐
+- [Dev.to](your-devto-url) ✍️
+- [Medium](your-medium-url) 📖
+
 
 ## 📫 Let's Connect!
 I’m always open to collaboration and new ideas. Feel free to reach out if you want to chat or work together!
@@ -43,3 +44,5 @@ I’m always open to collaboration and new ideas. Feel free to reach out if you 
 ---
 
 Thank you for visiting my profile!
+
+![Memes Template](https://github.com/user-attachments/assets/eb477d94-c9fc-4f03-8da2-47b93065cfea)
