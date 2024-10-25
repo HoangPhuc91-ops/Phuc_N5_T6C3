@@ -8,7 +8,7 @@
 
 ##### When I’m not coding, you can find me [your hobbies, e.g., hiking, reading, experimenting with new recipes, etc.]. I'm always eager to connect with like-minded individuals, so feel free to reach out!
 
-####Thank you for visiting my profile!
+#### Thank you for visiting my profile!
 
 ## 🚀 About Me
 - 🌱 **Currently Learning:** Advanced Software Technology
